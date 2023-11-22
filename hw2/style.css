@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.hidden {
+    display: none;
+}
+
+.slide {
+    height: 500px;
+}
+ 
+img {
+    height: 100%;
+}
+
+.container {
+    margin: 40px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+
+.btnFlex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.btn {
+    padding: 15px;
+    font-size: 25px;
+}
+
+
